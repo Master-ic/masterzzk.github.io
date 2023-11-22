@@ -10,7 +10,7 @@
     ### &nbsp;&nbsp;&nbsp;&nbsp;  Dare to try, explore, and verify what you think instead of asking others like an idiot.
 
   ## 3.Respect every line of code you write and Proficient in using git to manage projects
-  ### Learn to program in a real sense
+  ### &nbsp;&nbsp;&nbsp;&nbsp;Learn to program in a real sense
 
 
   ### ~~Don't disgust others when they are pouring their heart and soul into their work.~~
